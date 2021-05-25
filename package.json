@@ -1,0 +1,19 @@
+{
+  "name": "my_nodejs",
+  "version": "1.0.0",
+  "description": "node project",
+  "main": "index.js",
+  "scripts": {
+    "start" : "npm index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeongminSung/jms_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeongminSung/jms_nodejs/issues"
+  },
+  "homepage": "https://github.com/JeongminSung/jms_nodejs#readme"
+}
